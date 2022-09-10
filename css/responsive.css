@@ -1,0 +1,630 @@
+@media only screen and (max-width: 1650px) {
+
+    .banner-section .carousel-caption h2 {
+        font-size: 97px;
+    }
+}
+
+
+@media only screen and (max-width: 1560px) {
+    .banner-section .carousel-caption h2 {
+        font-size: 80px;
+    }
+
+    .banner-section .carousel-caption h3 {
+        font-size: 25px;
+    }
+
+    .banner-section .carousel-caption p {
+        font-size: 22px;
+    }
+
+    .carousel-caption {
+        top: 15%;
+    }
+
+    .banner-btn-main {
+        padding-top: 69px;
+    }
+
+    .banner-last-itam span {
+        font-size: 15px;
+    }
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 1400px) {
+    .header-section .navbar-expand-lg {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .header-section li.nav-item {
+        padding-right: 0px;
+    }
+
+    .header-section a.header-btn {
+        font-size: 15px;
+        padding: 8px 16px;
+    }
+
+    .header-section li.nav-item {
+        font-size: 16px;
+    }
+
+    .prime_text h3 {
+        font-size: 24px;
+    }
+
+    .prime_text span {
+        font-size: 18px;
+    }
+
+    .aenities-number-box-main h2,
+    .project-featured-box-main h2,
+    .project-featured-box-main1 h2 {
+        font-size: 50px;
+    }
+
+    .aenities-number-box-main p br {
+        display: none;
+    }
+
+    .aenities-number-box-main p {
+        font-size: 16px;
+    }
+
+    .aenities-number-box-main1 h2 {
+        font-size: 50px;
+    }
+
+    .aenities-number-box-main1 p br,
+    .project-featured-box-main p br {
+        display: none;
+    }
+
+    .aenities-number-box-main1 p {
+        font-size: 16px;
+    }
+
+    .carousel-caption {
+        padding: 30px 30px 50px;
+    }
+
+}
+
+
+
+
+
+@media only screen and (max-width: 1200px) {
+
+
+    nav.navbar.navbar-expand-lg.navbar-light {
+        flex-direction: column;
+    }
+
+    .header-section .navbar-brand {
+        margin-right: 0px;
+    }
+
+    .header-section a.navbar-brand {
+        text-align: center;
+        padding: 15px 0px;
+    }
+
+    .header-section .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+
+    nav.navbar.navbar-expand-lg.navbar-light {
+        padding-bottom: 20px;
+    }
+
+    .banner-section .carousel-caption h1 {
+        font-size: 70px;
+    }
+
+    .banner-btn-main {
+        padding-top: 28px;
+    }
+
+    .aenities-box-main h3 {
+        font-size: 20px;
+    }
+
+    .aenities-box-main {
+        text-align: center;
+        padding: 18px 15px;
+    }
+
+    .amenities-section {
+        padding: 30px 0px 50px 0;
+    }
+
+    h1,
+    .h1 {
+        font-size: 42px;
+    }
+
+
+    .banner-section .carousel-caption h2 {
+        font-size: 70px;
+    }
+
+    a.banner-btn-1 {
+        padding: 10px 50px;
+        font-size: 20px;
+    }
+    .prime_text h3 {
+        font-size: 18px;
+    }
+    .exceptional {
+        padding: 70px 0;
+    }
+    .head3 {
+        font-size: 24px;
+    }
+    .aenities-heading {
+        padding: 40px 0px;
+    }
+    .project-featured-heading {
+        padding: 50px 0;
+    }
+    .brochure-heading {
+        padding: 50px 0;
+    }
+
+    .banner-section .carousel-caption h2 br{ display: none;}
+
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+    .banner-last-itam {
+        position: inherit;
+        padding-top: 15px;
+    }
+
+    .carousel-indicators {
+        bottom: 10px;
+    }
+
+    a.banner-btn-1 {
+        font-size: 14px;
+    }
+
+    .banner-section .carousel-caption p {
+        font-size: 18px;
+    }
+
+    .banner-section .carousel-caption h3 {
+        font-size: 18px;
+    }
+
+    .banner-section .carousel-caption h1 {
+        font-size: 51px;
+    }
+
+    .aenities-heading h3 {
+        font-size: 26px;
+    }
+
+    .project-featured-last-itam {
+        max-width: 100%;
+    }
+    .carousel-caption {
+        border: #ffffff solid 8px;
+    }
+    .banner-section .carousel-caption h2 {
+        font-size: 55px;
+    }
+    h1, .h1 {
+        font-size: 38px;
+    }
+
+
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 991px) {
+
+    .amenities-section ul li i img{
+        max-height: 50px;
+    }
+
+    .header-section button.navbar-toggler {
+        margin: inherit;
+        text-align: right;
+        border: none !important;
+        outline: none;
+    }
+
+    .banner-section .carousel-caption h1 {
+        font-size: 51px;
+    }
+
+    .banner-btn-main {
+        padding-top: 11px;
+    }
+
+    .banner-btn-main {
+        flex-direction: column;
+    }
+
+    a.banner-btn-1 {
+        font-size: 14px;
+    }
+
+    .about-left-main img {
+        padding-top: 0px;
+    }
+
+    .about-section {
+        padding: 25px 0px 50px 0;
+    }
+
+    .about-right-itam h3 {
+        font-size: 24px;
+    }
+
+    .about-right-itam h2 {
+        font-size: 23px;
+    }
+
+    .about-right-itam p {
+        font-size: 16px;
+        padding-top: 6px;
+    }
+
+    nav.navbar.navbar-expand-lg.navbar-light {
+        flex-direction: inherit;
+        padding: 0.5rem 0rem;
+    }
+
+    .about-left-main {
+        justify-content: center;
+    }
+
+    .aenities-number-box-main1,
+    .project-featured-box-main1 {
+        position: relative;
+        padding-left: 40px;
+        margin-bottom: 50px;
+    }
+
+    .aenities-number-box-main1:after {
+        position: absolute;
+        content: '';
+        background: #c29880;
+        height: 6px;
+        width: 50px;
+        right: 28px;
+        top: 49%;
+    }
+
+
+    .amenities-section {
+        padding: 30px 0px 50px 0;
+    }
+
+    .amenities-number-section {
+        padding: 85px 0px 40px 0;
+
+    }
+
+    .eminence-section {
+        padding-top: 35px;
+        padding-bottom: 10px;
+    }
+
+
+
+
+
+    .brochure-right-logo-main span {
+        font-size: 22px;
+        padding-left: 0px;
+        display: block;
+
+    }
+
+    .brochure-right-logo-main p {
+        font-size: 18px;
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+
+    .brochure-right-logo-main p b {
+        font-size: 22px;
+    }
+
+    .brochure-right-logo-main h4 {
+        font-size: 18px;
+    }
+
+    .brochure-right-logo-main h5 {
+        font-size: 18px;
+    }
+
+    .project-featured-last-itam {
+        padding-top: 50px;
+    }
+
+    .contect-us-section {
+        padding: 70px 0 70px 0;
+    }
+
+    .contect-itam-main input:placeholder {
+        font-size: 16px;
+    }
+
+    .copyright-right-main a {
+        font-size: 14px;
+        color: #fff;
+    }
+
+
+    .copyright-left-main a {
+        text-align: center;
+        font-size: 14px;
+        display: block;
+    }
+
+    h1, .h1 {
+        font-size: 28px;
+    }
+
+    .h3, h3 {
+        font-size: 1.2rem;
+    }
+    .prime_text {
+        padding: 5px 15px;
+    }
+    .aenities-heading {
+        padding: 25px 0px;
+    }
+
+    .banner-section .carousel-caption h2 {
+        font-size: 42px;
+    }
+
+    .header-section a.navbar-brand {
+        max-width: 140px;
+    }
+
+    .header-section.sticky a.navbar-brand {
+        max-width: 110px;
+    }
+    p, ul li, ol li, span, label {
+        font-size: 16px;
+    }
+    .about-right-itam h2 {
+        font-size: 20px;
+    }
+    .brochure-heading {
+        padding: 25px 0;
+    }
+    .brochure-left-main i svg {
+        width: 30px;
+        margin-left: -15px;
+    }
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 767px) {
+    .map-main iframe {
+        height: 350px !important;
+    }
+
+    .head1 {
+        text-align: center;
+    }
+
+    nav.navbar.navbar-expand-lg.navbar-light {
+        position: relative;
+    }
+
+    .header-section .navbar-expand-lg .navbar-collapse {
+        position: absolute;
+        top: 83px;
+        z-index: 99999;
+        background: #ffff;
+        width: 100%;
+        left: 0;
+        right: 0;
+        padding: 0 20px 20px 20px;
+    }
+
+    .banner-section .carousel-caption h1 {
+        font-size: 40px;
+    }
+
+    .carousel-caption {
+        top: 9%;
+    }
+
+    .carousel-caption {
+        top: 9%;
+    }
+
+    .banner-last-itam span {
+        font-size: 11px;
+    }
+
+    .about-right-itam h2 {
+        font-size: 20px;
+    }
+
+    .about-right-itam h3 {
+        font-size: 20px;
+    }
+
+    .eminence-section {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .contect-us-heading h3 {
+        font-size: 25px;
+    }
+
+    button {
+        font-size: 17px;
+    }
+
+    .copyright-left-main a {
+        font-size: 16px;
+    }
+
+    .copyright-right-main {
+        text-align: center;
+    }
+
+    .copyright-right-main a {
+        font-size: 14px;
+        color: #fff;
+    }
+
+
+    .copyright-left-main a {
+        text-align: center;
+        font-size: 14px;
+        display: block;
+    }
+
+
+    h1, .h1 {
+        font-size: 26px;
+    }
+
+    p, ul li, ol li, span, label {
+        font-size: 14px;
+    }
+    .except-left-content {
+        padding-left: 0px;
+        padding-top: 20px;
+    }
+    .exceptional {
+        padding: 30px 0;
+    }
+    .carousel-caption {
+        border: #ffffff solid 6px;
+        padding: 15px 15px 30px;
+    }
+    .banner-section .carousel-caption h2 {
+        font-size: 32px;
+    }
+    .amenities-section {
+        padding: 0px 0px 0px 0;
+    }
+    .project-featured-heading {
+        padding: 25px 0;
+    }
+
+    .project-featured-box-main {
+        padding-left: 0;
+        padding: 6px;
+        background: aliceblue;
+        border-radius: 8px;
+        margin-bottom: 15px;
+    }
+    .project-featured-box-main {
+        padding-left: 0;
+        margin-bottom: 30px;
+    }
+    .aenities-number-box-main1, .project-featured-box-main1 {
+        padding-left: 0;
+        margin-bottom: 15px;
+        padding: 6px;
+        background: aliceblue;
+        border-radius: 8px;
+    }
+    .aenities-number-box-main h2, .project-featured-box-main h2, .project-featured-box-main1 h2 {
+        font-size: 30px;
+    }
+    .project-featured-box-main p, .project-featured-box-main1 p {
+        font-size: 15px;
+        width: 100%;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 575px) {
+
+    .carousel-caption {
+        border: #ffffff solid 6px;
+        padding: 15px 15px 30px;
+        left: 15px;
+        right: 15px;
+    }
+    .header-section .navbar {
+        flex-wrap: nowrap;
+        ;
+
+    }
+
+    .banner-last-itam span {
+        display: none;
+    }
+
+    a.banner-btn-1 {
+        padding: 10px 20px;
+    }
+
+
+    .aenities-number-heading h3 {
+        padding-left: 0px;
+    }
+
+    .aenities-number-heading h3 {
+        font-size: 26px;
+    }
+
+    .amenities-number-section {
+        padding: 85px 0px 75px 0;
+    }
+
+    .copyright-left-main a {
+        font-size: 14px;
+
+    }
+
+    .copyright-right-main a {
+        font-size: 14px;
+    }
+
+    .copyright-right-main {
+        text-align: center;
+    }
+
+    .copyright-left-main {
+        text-align: center;
+    }
+
+    .carousel-item img{
+        max-width: 160%;
+    }
+
+
+
+
+}
